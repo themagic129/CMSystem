@@ -79,7 +79,7 @@
                 
               </div>
 
-            <button type="submit" class="btn btn-primary col-12 mt-3">Submit</button>
+            <button type="submit" class="btn btn-primary col-12 mt-3">Submit Test</button>
             <a href="{{route('customers.index')}}" class="btn btn-danger col-12 mt-3">Cancel</a>
           </form>
 
